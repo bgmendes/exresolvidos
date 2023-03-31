@@ -1,0 +1,15 @@
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\bin\Debug\net6.0\Ex5Reverse.exe
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\bin\Debug\net6.0\Ex5Reverse.deps.json
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\bin\Debug\net6.0\Ex5Reverse.runtimeconfig.json
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\bin\Debug\net6.0\Ex5Reverse.dll
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\bin\Debug\net6.0\Ex5Reverse.pdb
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.csproj.AssemblyReference.cache
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.AssemblyInfoInputs.cache
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.AssemblyInfo.cs
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.csproj.CoreCompileInputs.cache
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.dll
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\refint\Ex5Reverse.dll
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.pdb
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\Ex5Reverse.genruntimeconfig.cache
+D:\Projetos Curso C#\Ex5Reverse\Ex5Reverse\obj\Debug\net6.0\ref\Ex5Reverse.dll

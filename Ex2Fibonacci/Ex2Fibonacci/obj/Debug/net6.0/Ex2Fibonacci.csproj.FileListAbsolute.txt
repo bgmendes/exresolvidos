@@ -1,0 +1,15 @@
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\bin\Debug\net6.0\Ex2Fibonacci.exe
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\bin\Debug\net6.0\Ex2Fibonacci.deps.json
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\bin\Debug\net6.0\Ex2Fibonacci.runtimeconfig.json
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\bin\Debug\net6.0\Ex2Fibonacci.dll
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\bin\Debug\net6.0\Ex2Fibonacci.pdb
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.csproj.AssemblyReference.cache
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.AssemblyInfoInputs.cache
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.AssemblyInfo.cs
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.csproj.CoreCompileInputs.cache
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.dll
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\refint\Ex2Fibonacci.dll
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.pdb
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\Ex2Fibonacci.genruntimeconfig.cache
+D:\Projetos Curso C#\Ex2Fibonacci\Ex2Fibonacci\obj\Debug\net6.0\ref\Ex2Fibonacci.dll

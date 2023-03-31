@@ -1,0 +1,17 @@
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Ex3Json.exe
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Ex3Json.deps.json
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Ex3Json.runtimeconfig.json
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Ex3Json.dll
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Ex3Json.pdb
+D:\Projetos Curso C#\Ex3Json\Ex3Json\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.csproj.AssemblyReference.cache
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.AssemblyInfoInputs.cache
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.AssemblyInfo.cs
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.csproj.CoreCompileInputs.cache
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.csproj.CopyComplete
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.dll
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\refint\Ex3Json.dll
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.pdb
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\Ex3Json.genruntimeconfig.cache
+D:\Projetos Curso C#\Ex3Json\Ex3Json\obj\Debug\net6.0\ref\Ex3Json.dll

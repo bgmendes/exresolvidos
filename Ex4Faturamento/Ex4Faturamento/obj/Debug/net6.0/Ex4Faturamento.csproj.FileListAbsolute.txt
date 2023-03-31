@@ -1,0 +1,15 @@
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\bin\Debug\net6.0\Ex4Faturamento.exe
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\bin\Debug\net6.0\Ex4Faturamento.deps.json
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\bin\Debug\net6.0\Ex4Faturamento.runtimeconfig.json
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\bin\Debug\net6.0\Ex4Faturamento.dll
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\bin\Debug\net6.0\Ex4Faturamento.pdb
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.csproj.AssemblyReference.cache
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.AssemblyInfoInputs.cache
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.AssemblyInfo.cs
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.csproj.CoreCompileInputs.cache
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.dll
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\refint\Ex4Faturamento.dll
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.pdb
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\Ex4Faturamento.genruntimeconfig.cache
+D:\Projetos Curso C#\Ex4Faturamento\Ex4Faturamento\obj\Debug\net6.0\ref\Ex4Faturamento.dll
